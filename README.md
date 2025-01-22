@@ -27,6 +27,11 @@ More about me on: [github.io](https://aditya-chakma.github.io/portfolio/)
 
 ### <img src='img/project.png' style='height: 2em;'/> Projects:
 
+- ✨ [Online Shop](https://github.com/aditya-chakma/Online-Shop): Online shop
+  - **Tech stack:** Java, Hibernate, JDBC, MqSql, Spring MVC, Servlet, HTML, CSS
+  - **Features:** 
+    - `Admin` Login, Add Product, Discontinue Product, Update Product, See all Products, Confirm Order, Reject Order, Search Product by name
+    - `Customer` Register, See all Products, Add Product to Cart, Checkout Cart, Place Order, Delete Order, View previous Order history, Search product by name
 - 🔭 [Attention](https://github.com/aditya-chakma/Attention-Extension): A manifest V3 google chrome extension.
   - **Tech stacK:** Javascript, ManifestV3
   - **Featuers:** Bookmark timestamp for a youtube video, Remove Youtube shorts, Remove facebook Reels, Block a website
@@ -38,6 +43,7 @@ More about me on: [github.io](https://aditya-chakma.github.io/portfolio/)
 - <img src='img/thumbs-up.png' style='height:1em;'/> [Blood Bank](https://github.com/aditya-chakma/CSE-206-BloodBank-JavaFX): Blood bank client and Admin server modules.
     - **Tech stack:** Java, JavaFX, CSS
     - **Features:** User registration, Request for blood, User notification based on location, Requester notification upon blood confirmaton.
+
 
 
 <details>
