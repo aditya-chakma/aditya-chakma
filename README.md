@@ -2,12 +2,11 @@
 
 **I am passionate Software Engineer with 4 years of Experience in professional enterprise Software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
 
-<ul>
-    <li>I love backend development and system design</li>
-    <li>I am also interested in Machine Learning, LLM development and integration</li>
-    <li>⚡ Fun fact: I love to play games, watch movies, listen to music and travel around the world</li>
-    <li>📫 How to reach me: <img src="img/gmail.png" style="width:16px; height:16px; vertical-align:middle;"/> <a href="mailto:adityachakma199@gmail.com">adityachakma199</a></li>
-</ul>
+- I love backend development and system design
+- I am also interested in Machine Learning, LLM development, and integration
+- ⚡ Fun fact: I love to play games, watch movies, listen to music, and travel around the world
+- 📫 How to reach me: <img src="img/gmail.png" style="width:16px; height:16px; vertical-align:middle;"/> [adityachakma199](mailto:adityachakma199@gmail.com)
+
 
 More about me on: [github.io](https://aditya-chakma.github.io/portfolio/)
 
@@ -36,16 +35,24 @@ More about me on: [github.io](https://aditya-chakma.github.io/portfolio/)
 - <img src='img/thumbs-up.png' style='height:1em;'/> [Travel Mate](https://github.com/aditya-chakma/Travel-Mate/tree/master): Travel agency project.
   - **Tech stac:** Laravel, MySql
   - **Features:** User registration, Client Registration, Product search, Product payment, Room/Vehicle rent, release.
-- [Blood Bank](https://github.com/aditya-chakma/CSE-206-BloodBank-JavaFX): Blood bank client and Admin server modules.
+- <img src='img/thumbs-up.png' style='height:1em;'/> [Blood Bank](https://github.com/aditya-chakma/CSE-206-BloodBank-JavaFX): Blood bank client and Admin server modules.
     - **Tech stack:** Java, JavaFX, CSS
     - **Features:** User registration, Request for blood, User notification based on location, Requester notification upon blood confirmaton.
 
-⚡ **Fun projects: (Unity games)** 😄
-- [Project Boost](https://github.com/aditya-chakma/Project-Boost)
-- [AA2](https://github.com/aditya-chakma/AA2)
-- [Argon Asult](https://github.com/aditya-chakma/Argon-Assult)
-- [Hitman](https://github.com/aditya-chakma/Hitman)
 
+<details>
+<summary>⚡ Fun projects: (Unity games) 😄</summary>
+    <ul>
+    <li><a href="https://github.com/aditya-chakma/Project-Boost">Project Boost</a></li>
+    <li><a href="https://github.com/aditya-chakma/AA2">AA2</a></li>
+    <li><a href="https://github.com/aditya-chakma/Argon-Assult">Argon Assault</a></li>
+    <li><a href="https://github.com/aditya-chakma/Hitman">Hitman</a></li>
+    </ul>
+</details>
+
+
+
+<hr>
 <!--
 **aditya-chakma/aditya-chakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
