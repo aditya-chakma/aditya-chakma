@@ -44,8 +44,6 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
     - **Tech stack:** Java, JavaFX, CSS
     - **Features:** User registration, Request for blood, User notification based on location, Requester notification upon blood confirmaton.
 
-
-
 <details>
 <summary>⚡ Fun projects: (Games) 😄</summary>
     <ul>
@@ -67,9 +65,12 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
     
 </details>
 
-
-
 <hr>
+
+### Currently Learning 🌱:
+ `AWS`, `LLM Integration`
+
+
 <!--
 **aditya-chakma/aditya-chakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
