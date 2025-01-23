@@ -1,4 +1,9 @@
-## Hi there 👋, I am Aditya 😄
+<!-- ## Hi there 👋, I am Aditya 😄 -->
+<center>
+  <img src='img/matrix.gif' alt='Hi there, I am Aditya'>
+</center>
+
+<hr>
 
 **I am passionate Software Engineer with 4 years of experience in professional Enterprise Software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
 
@@ -45,7 +50,7 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
     - **Features:** User registration, Request for blood, User notification based on location, Requester notification upon blood confirmaton.
 
 <details>
-<summary>⚡ Fun projects: (Games) 😄</summary>
+<summary> <img src='img/click.gif' style='height:2em; vertical-align:middle;'/> Fun projects: (Games) 😄</summary>
     <ul>
         <li> <b>C++:</b>
             <ul>
