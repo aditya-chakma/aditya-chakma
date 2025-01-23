@@ -1,6 +1,6 @@
-<!-- ## Hi there 👋, I am Aditya 😄 -->
+<!-- # Hi there 👋, I am Aditya 😄 -->
 <center>
-  <img src='img/matrix.gif' alt='Hi there, I am Aditya'>
+  <a href="#"><img src='img/matrix.gif' alt='Hi there, I am Aditya'></a>
 </center>
 
 <hr>
@@ -50,7 +50,7 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
     - **Features:** User registration, Request for blood, User notification based on location, Requester notification upon blood confirmaton.
 
 <details>
-<summary> <img src='img/click.gif' style='height:2em; vertical-align:middle;'/> Fun projects: (Games) 😄</summary>
+    <summary><a href="#"><img src='img/click.gif' style='height:2em; vertical-align:middle;'/><a/> Fun projects: (Games) 😄</summary>
     <ul>
         <li> <b>C++:</b>
             <ul>
@@ -66,8 +66,6 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
             </ul>
         </li>
     </ul>
-    
-    
 </details>
 
 <hr>
