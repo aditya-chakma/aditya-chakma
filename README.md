@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Aditya 😄
 
-**I am passionate Software Engineer with 4 years of Experience in professional enterprise Software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
+**I am passionate Software Engineer with 4 years of experience in professional Enterprise Software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
 
 - I love backend development and system design
 - I am also interested in Machine Learning, LLM development, and integration
@@ -8,7 +8,7 @@
 - 📫 How to reach me: <img src="img/gmail.png" style="width:16px; height:16px; vertical-align:middle;"/> [adityachakma199](mailto:adityachakma199@gmail.com)
 
 
-More about me on: [github.io](https://aditya-chakma.github.io/portfolio/)
+More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfolio/)
 
 <hr>
 
@@ -47,13 +47,24 @@ More about me on: [github.io](https://aditya-chakma.github.io/portfolio/)
 
 
 <details>
-<summary>⚡ Fun projects: (Unity games) 😄</summary>
+<summary>⚡ Fun projects: (Games) 😄</summary>
     <ul>
-    <li><a href="https://github.com/aditya-chakma/Project-Boost">Project Boost</a></li>
-    <li><a href="https://github.com/aditya-chakma/AA2">AA2</a></li>
-    <li><a href="https://github.com/aditya-chakma/Argon-Assult">Argon Assault</a></li>
-    <li><a href="https://github.com/aditya-chakma/Hitman">Hitman</a></li>
+        <li> <b>C++:</b>
+            <ul>
+                <li><a href="https://github.com/aditya-chakma/DX-Ball">DX-Ball Game</a></li>
+            </ul>
+        </li>
+        <li> <b>Unity</b>
+            <ul>
+            <li><a href="https://github.com/aditya-chakma/Project-Boost">Project Boost</a></li>
+            <li><a href="https://github.com/aditya-chakma/AA2">AA2</a></li>
+            <li><a href="https://github.com/aditya-chakma/Argon-Assult">Argon Assault</a></li>
+            <li><a href="https://github.com/aditya-chakma/Hitman">Hitman</a></li>
+            </ul>
+        </li>
     </ul>
+    
+    
 </details>
 
 
