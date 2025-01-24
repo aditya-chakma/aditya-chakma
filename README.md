@@ -1,7 +1,7 @@
 <!-- # Hi there 👋, I am Aditya 😄 -->
-<center>
+<p align="center">
   <a href="#"><img src='img/matrix.gif' alt='Hi there, I am Aditya'></a>
-</center>
+</p>
 
 <hr>
 
