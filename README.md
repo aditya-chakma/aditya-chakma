@@ -73,7 +73,10 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
 ### Currently Learning 🌱:
  `AWS`, `LLM Integration`
 
-
+<hr>
+<p align="center">
+  <a href="#"><img src='img/opentowork.gif' alt='Open to work'></a>
+</p>
 <!--
 **aditya-chakma/aditya-chakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
