@@ -5,7 +5,7 @@
 
 <hr>
 
-**I am passionate Software Engineer with 4 years of experience in professional Enterprise Software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
+**I am passionate Software Engineer with 4 years of experience in professional enterprise software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
 
 - I love backend development and system design
 - I am also interested in Machine Learning, LLM development, and integration
@@ -20,7 +20,7 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
 ### Programming languages:
 `Java`, `C++`, `Python`, `Javascript`, `R`, `C#`, `Rust`
 
-### Tools and Frameworks
+### Skill Tree
 ***Databases:*** `Oracle DBMS`, `Mysql`, `PostgreSQL`\
 ***Fronend:*** `HTML`, `CSS`, `React`, `jQuery`, `Javascript`, `Jsp`, `Thymeleaf`\
 ***Frameworks:*** `Spring MVC`, `Spring Boot`, `Hibernate`, `Kafka`, `Maven`, `Gradle`, `Git`, `Gatling`, `Postman`, `JUnit`\
@@ -50,7 +50,7 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
     - **Features:** User registration, Request for blood, User notification based on location, Requester notification upon blood confirmaton.
 
 <details>
-    <summary><a href="#"><img src='img/click.gif' style='height:2em; vertical-align:middle;'/><a/> Fun projects: (Games) 😄</summary>
+    <summary><a href="#"><img src='img/click.gif' style='height:2em; vertical-align:middle;'/><a/> <b>Fun projects: (Games) 😄</b></summary>
     <ul>
         <li> <b>C++:</b>
             <ul>
@@ -68,6 +68,27 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
     </ul>
 </details>
 
+<details>
+    <summary><a href="#"><img src='img/click.gif' style='height:2em; vertical-align:middle;'/><a/><b>Undergrad courses (BUET)</b></summary>
+    <ul>
+        <li>
+            <a href="https://github.com/aditya-chakma/CSE-310-Compiler-Sessional">CSE-310 Compiler Sessional</a>
+        </li>
+        <li>
+            <a href="https://github.com/aditya-chakma/4-bit-pc-proteus">CSE-306 Computer Architecture Sessional (Proteus)</a>
+        </li>
+        <li>
+            <a href="https://github.com/aditya-chakma/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems-Sesssional">CSE-316 Microprocessors Sessional</a>
+        </li>
+        <li>
+            <a href="https://github.com/aditya-chakma/Data-structures-and-algorithms-II">CSE-208 Data Structures and Algorithms II Sessional</a>
+        </li>
+        <li>
+            <a href="https://github.com/aditya-chakma/Database-Sessional">CSE-216 Database Sessional</a>
+        </li>
+    </ul>
+</details>
+
 <hr>
 
 ### Currently Learning 🌱:
@@ -75,7 +96,7 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
 
 <hr>
 <p align="center">
-  <a href="#"><img src='img/opentowork.gif' alt='Open to work'></a>
+  <a href="#opentowork"><img id="opentowork" src='img/opentowork.gif' alt='Open to work'></a>
 </p>
 <!--
 **aditya-chakma/aditya-chakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
