@@ -23,10 +23,10 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
 ### Skill Tree
 ***Databases:*** `Oracle DBMS`, `Mysql`, `PostgreSQL`\
 ***Fronend:*** `HTML`, `CSS`, `React`, `jQuery`, `Javascript`, `Jsp`, `Thymeleaf`\
-***Frameworks:*** `Spring MVC`, `Spring Boot`, `Hibernate`, `Kafka`, `Maven`, `Gradle`, `Git`, `Gatling`, `Postman`, `JUnit`\
+***Tools and Frameworks:*** `Spring MVC`, `Spring Boot`, `Spring Cloud`, `Hibernate`, `Kafka`, `Maven`, `Gradle`, `Git`, `Gatling`, `Postman`, `JUnit`\
 ***Devops:*** `Weblogic`, `Tomcat`, `Nginx`, `Docker`\
 ***Project management:*** `Jira`, `Trello`, `Slack`\
-***Miscilenouse:*** `Microservice`, `Spring Cloud`, `REST`, `SOAP`, `Linux`, `Shell script`, `Bash`
+***Miscilenouse:*** `Microservice`, `REST`, `SOAP`, `Linux`, `Shell script`, `Bash`
 
 <hr>
 
