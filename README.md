@@ -13,7 +13,7 @@
 - 📫 How to reach me: <img src="img/gmail.png" style="width:16px; height:16px; vertical-align:middle;"/> [adityachakma199](mailto:adityachakma199@gmail.com)
 
 
-More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfolio/)
+More about me on: [github.io](https://aditya-chakma.github.io/)
 
 <hr>
 
@@ -98,6 +98,10 @@ More about me on: [github.io/portfolio](https://aditya-chakma.github.io/portfoli
 <p align="center">
   <a href="#opentowork"><img id="opentowork" src='img/opentowork.gif' alt='Open to work'></a>
 </p>
+<hr>
+
+**Important links:** [Github](https://github.com/aditya-chakma) | [Portfolio](https://aditya-chakma.github.io/) | [LinkedIn](https://www.linkedin.com/in/aditya-chakma/) | [CV](https://aditya-chakma.github.io/resources/Aditya_Chakma_CV.pdf)
+
 <!--
 **aditya-chakma/aditya-chakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
