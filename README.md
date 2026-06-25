@@ -5,10 +5,10 @@
 
 <hr>
 
-**I am passionate Software Engineer with 4 years of experience in professional enterprise software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
+**I am passionate Software Engineer with 5.5 years of experience in professional enterprise software development. Currently I am employeed at [Therap](https://www.therapservices.net/). I graduated from Bangladesh University of Engineering and Technology (BUET)**
 
 - I love backend development and system design
-- I am also interested in Machine Learning, LLM development, and integration
+- I am also interested in Machine Learning, LLM development, and Agentic pipelines
 - ⚡ Fun fact: I love to play games, watch movies, listen to music, and travel around the world
 - 📫 How to reach me: <img src="img/gmail.png" style="width:16px; height:16px; vertical-align:middle;"/> [adityachakma199](mailto:adityachakma199@gmail.com)
 
@@ -18,11 +18,11 @@ More about me on: [github.io](https://aditya-chakma.github.io/)
 <hr>
 
 ### Programming languages:
-`Java`, `C++`, `Python`, `Javascript`, `R`, `C#`, `Rust`
+`Java`, `C++`, `Python`, `Javascript`, `TypeScript`, `Go`, `C#`, `Rust`
 
 ### Skill Tree
 ***Databases:*** `Oracle DBMS`, `Mysql`, `PostgreSQL`\
-***Fronend:*** `HTML`, `CSS`, `React`, `jQuery`, `Javascript`, `Jsp`, `Thymeleaf`\
+***Fronend:*** `HTML`, `CSS`, `React`, `jQuery`, `Javascript`, `TypeScript`, `Jsp`, `Thymeleaf`\
 ***Tools and Frameworks:*** `Spring MVC`, `Spring Boot`, `Spring Cloud`, `Hibernate`, `Kafka`, `Maven`, `Gradle`, `Git`, `Gatling`, `Postman`, `JUnit`\
 ***Devops:*** `Weblogic`, `Tomcat`, `Nginx`, `Docker`\
 ***Project management:*** `Jira`, `Trello`, `Slack`\
@@ -31,6 +31,12 @@ More about me on: [github.io](https://aditya-chakma.github.io/)
 <hr>
 
 ### <img src='img/project.png' style='height: 2em;'/> Projects:
+
+- [Beiong (Live)](https://www.beiong.com/): E-commerece platform (In development)
+  - **Tech stack:** Java, Spring Boot, Spring Cloud, Hibernate, AWS (EC2, IAM, RDS, S3, Lambda, CloudFront, CloudWatch, AppRunner), PostgreSQL, Next.js, TypeScript
+  - **Features**
+    - `Admin` Dashboard, Product Management, Category Management, Order Management, User Management, Role Management, Coupon Management, Notification Management, Store Settings Management etc.
+    - `Customer` Registration, Login, Product Search, Product Category Filter, Product Details, Add Product to Cart, Checkout Cart, Place Order, Delete Order, View previous Order history, Order Search, Order Status Tracking, Notification Management etc.
 
 - ✨ [Online Shop](https://github.com/aditya-chakma/Online-Shop): Online shop
   - **Tech stack:** Java, Hibernate, JDBC, MqSql, Spring MVC, Servlet, HTML, CSS
